@@ -1,0 +1,32 @@
+{
+    "name": "@akshayp/eslint-config",
+    "version": "1.0.0",
+    "description": "Personal eslint config",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akshayp/eslint-config.git"
+    },
+    "peerDependencies": {
+        "babel-eslint": "^8.0.2",
+        "eslint": "^4.11.0",
+        "eslint-plugin-babel": "^4.1.2",
+        "eslint-plugin-flowtype": "^2.39.1",
+        "eslint-plugin-prettier": "^2.3.1",
+        "eslint-plugin-react": "^7.5.1"
+    },
+    "keywords": [
+        "eslint",
+        "eslint-config"
+    ],
+    "author": {
+        "name": "Akshay Patel",
+        "email": "akshayrpatel@gmail.com",
+        "url": "https://github.com/akshayp"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/akshayp/eslint-config/issues"
+    },
+    "homepage": "https://github.com/akshayp/eslint-config#readme"
+}
